@@ -46,7 +46,7 @@ h3{
 .main .main-img img{
     width: 50%;
     height: 90%;
-    object-fit: cover;
+    object-fit: contain;
     border-radius: 50%;
     border:2px solid #fff;
 }
